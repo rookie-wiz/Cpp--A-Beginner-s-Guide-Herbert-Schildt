@@ -1,0 +1,17 @@
+# Compiled executables
+*.out
+*.o
+*.a
+*.dylib
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Xcode generated files
+DerivedData/
+*.xcuserstate
+xcuserdata/
