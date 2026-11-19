@@ -10,6 +10,5 @@ int main() {
 
     if(10 > 11)
         cout << "10 is greater than 11";
-    for 
     return 0;
 }
